@@ -7,9 +7,8 @@
 from os import system
 if system("clear") != 0: system("cls")
 
-"""
-El comando `type()` devuelve el tipo de un objeto en Python
-"""
+#El comando type() devuelve el tipo de un objeto en Python
+
 print("int:")  # Enteros (números sin parte decimal)
 print(type(10))  # Número entero positivo
 print(type(0))  # El número cero también es un entero
@@ -37,5 +36,5 @@ print(type(True))  # Valor booleano verdadero
 print(type(False))  # Valor booleano falso
 print(type(1 < 2))  # Comparación que devuelve un booleano (True)
 
-print("NoneType:")  # Representa la ausencia de valor
-print(type(None))  # `None` es un tipo especial en Python que representa "sin valor" o "nulo"
+print("NoneType:")  # Representa la ausencia de valor. En otros lenguajes se usaria Undefined o null. En Python se usa `None`
+print(type(None))  
