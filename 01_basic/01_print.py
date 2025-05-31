@@ -1,8 +1,6 @@
 ###
 # 01 - print()
 # El módulo print() es el módulo que nos permite imprimir en consola
-# Sirve para mostrar información en consola y te va a acompañar
-# TODA TU VIDA. Desde hoy hasta el fin de los tiempos
 ###
 
 # Podemos importar módulos de Python para usarlos en nuestros programas.
@@ -15,11 +13,9 @@ from os import system
 # en MacOS/Linux usando "clear" como en Windows con "cls"
 if system("clear") != 0: system("cls")
 
-# Este es un ejemplo básico de cómo imprimir un texto en consola
-print("¡Hola, Twitch!")
+print("Este es un ejemplo básico de cómo imprimir un texto en consola")
 
-# También puedes usar comillas simples para imprimir texto
-print('Esto también funciona con una comilla')
+print('Esto también funciona con comillas simples')
 
 # Puedes imprimir múltiples elementos separados por un espacio
 print("Python", "es", "genial")
@@ -28,8 +24,14 @@ print("Python", "es", "genial")
 print("Python", "es", "brutal", sep = "-")
 
 # El parámetro 'end' define lo que se imprime al final de la línea
-print("Esto se imprime", end = "\n") # Aquí, el 'end' tiene un salto de línea explícito
-print("en una línea") # Esto se imprime en la línea siguiente
+print("Esto se imprime", end = " ") # Aquí, el 'end' es un espacio
+print("en una línea") 
+
+print("Esto se imprime", end = "\n") # Aquí, el 'end' es un salto de línea (comportamiento por defecto)
+print("en una nueva línea")
+
+# También puedes imprimir múltiples líneas usando el carácter de nueva línea \n
+print("Primera línea\nSegunda línea\nTercera línea")
 
 # También se pueden imprimir números directamente
 print(42)
