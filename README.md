@@ -29,37 +29,15 @@ Curso práctico y gratuito de Python desde cero. Emitido en directo en [twitch.t
   <img src="https://github.com/user-attachments/assets/284de8a1-4cb2-4120-bbe4-227a71fd65c0" alt="portada python">
 </div>
 
-## 🤔 ¿Por qué deberías ver este curso?
+## 🤔 ¿Por qué decidí aprender con este curso?
 
-- 🎯 **Aprenderás el lenguaje de programación del momento.**
-- 📅 **Nuevas clases todos los miércoles.**
-- 🚀 Ideal para principiantes: comienza **desde cero** y avanza paso a paso.
-- 🛠️ **Curso práctico** con ejercicios para que puedas practicar lo aprendido.
+- 🎯 **De por sí python es de propósito general, me fijé en este curso porque midu siempre me ha gustado como creador de contenido**
+- 📅 **Me puse metas para aprenderlo y tengo ciertos plazos que cumplí**
+- 🛠️ **Curso práctico** con ejercicios para practicar lo aprendido en cada módulo
 - 📝 **Código abierto**: lo que te permitirá clonar el proyecto y tener acceso completo a todo lo que se muestra.
 > [!TIP]
-> **¿Sabías que puedes acceder a todas las clases desde la [Academia de midudev](https://midu.dev/)?** Si eres suscriptor en [Twitch](https://www.twitch.tv/midudev), ¡ya tienes acceso!
-
-## 🕐 Horario por países
-
-| Hora | Países                                   |
-|------|------------------------------------------|
-| 18H  | 🇪🇸 España                               |
-| 17H  | 🇮🇨 Islas Canarias                       |
-| 14H  | 🇺🇾 Uruguay 🇦🇷 Argentina 🇨🇱 Chile 🇵🇾 Paraguay |
-| 13H  | 🇧🇴 Bolivia 🇻🇪 Venezuela 🇩🇴 República Dominicana 🇵🇷 Puerto Rico |
-| 12H  | 🇨🇴 Colombia 🇵🇪 Perú 🇪🇨 Ecuador 🇨🇺 Cuba 🇵🇦 Panamá |
-| 11H  | 🇲🇽 México 🇨🇷 Costa Rica 🇳🇮 Nicaragua 🇸🇻 El Salvador 🇭🇳 Honduras |
-
-## 📺¿Dónde puedo ver el curso? 
-Mira los cursos y participa en vivo en
-[twitch.tv/midudev](https://twitch.tv/midudev)
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 2800" width="24" height="24">
-  <path fill="#fff" d="M2200 1300l-400 400h-400l-350 350v-350H600V200h1600z"/>
-  <g fill="#9146ff">
-    <path d="M500 0 0 500v1800h600v500l500-500h400l900-900V0H500zm1700 1300-400 400h-400l-350 350v-350H600V200h1600v1100z"/>
-    <path d="M1700 550h200v600h-200zm-550 0h200v600h-200z"/>
-  </g>
-</svg> 
+> ### 📺¿Dónde puedo ver el curso?
+> **¿Se pueden acceder a todas las clases desde la [Academia de midudev](https://midu.dev/)?** Si eres suscriptor en [Twitch](https://www.twitch.tv/midudev) y algunas en YT
 
 ## 📄 Contenido Actual
 | Clase     | Código      | Video                          |
@@ -151,34 +129,16 @@ cd curso-python
    - [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
    - [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)
 
-## 🛠️ Requisitos Técnicos
-
-- Python 3.x instalado
-- VS Code + extensiones
-- Conexión a internet
-- No requiere experiencia previa
-
 ## 📚 Recursos Adicionales
 
-- [cursopython.dev](https://cursopython.dev) - Portal oficial del curso
-- [Documentación de Python](https://docs.python.org/es/) - Documentación oficial en español
-- [Ejercicios resueltos](link-ejercicios) - Soluciones a los ejercicios del curso
-
-## 🔗 Enlaces
-
-- 🌐 [cursopython.dev](https://cursopython.dev) - Portal del curso
-- 📚 [Documentación Python](https://docs.python.org/es/) - Docs oficial
+- 🌐[cursopython.dev](https://cursopython.dev) - Portal oficial del curso
+- 📚[Documentación de Python](https://docs.python.org/es/) - Documentación oficial en español
+- 🎉[Ejercicios resueltos](link-ejercicios) - Soluciones a los ejercicios del curso
 - ⭐ [GitHub](https://github.com/midudev/curso-python) - Código fuente
 
 ## 👥 Comunidad
 
 [![Discord](https://img.shields.io/discord/741237973663612969?style=for-the-badge&logo=discord&logoColor=white&label=Discord)](https://discord.gg/midudev)
-
-Únete a nuestra comunidad para:
-- 💬 Compartir dudas y soluciones
-- 🤝 Conectar con otros estudiantes
-- 📢 Recibir anuncios de nuevas clases
-- 🎉 Participar en eventos especiales
 
 ## ⚖️ Licencia
 
