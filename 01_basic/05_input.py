@@ -18,6 +18,13 @@ age = input("¿Cuántos años tienes?\n")
 age = int(age)
 print(f"Tienes {age} años")
 
+# También se puede usar la función int() directamente en la función input()
+age = int(input("¿Cuántos años tienes?\n"))
+print(f"Tienes {age} años")
+# Si el usuario introduce un valor no válido, se generará un error
+# Por ejemplo, si el usuario introduce un texto en lugar de un número
+# age = int(input("¿Cuántos años tienes?\n"))  # ❌ ValueError: invalid literal for int() with base 10: 'twenty'
+
 # La función input() también puede devolver múltiples valores
 # Para hacerlo, el usuario debe separar los valores con una coma
 print("Obtener múltiples valores a la vez")
