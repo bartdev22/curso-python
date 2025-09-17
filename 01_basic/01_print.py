@@ -17,15 +17,15 @@ print("¡Hi!")
 # You can use simple quote marks to print any text
 print('This is how you can print a text with simple quote marks')
 
-# You can print multiple elements separated by a coma and a space
+# You can print multiple elements separated by a coma and a space, each of them is a different argument.
 print("Python", "is", "great")
 
-# The 'sep' parameter define the way in which the elements are gonna separate when printing
+# The 'sep' parameter define the way in which the elements are gonna separate when printing, just like before, sep is a different argument.
 print("Python", "es", "brutal", sep = "-")
 
 # The 'end' parameter define the character that will be printed at the end of the output
 print("Esto se imprime", end = "\n") # next line
-print("en una línea") # This will be printed in the next line
+print("en dos líneas") # This will be printed in the next line
 
 # You can also print numbers and variables
 print(42)
