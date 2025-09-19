@@ -46,3 +46,26 @@ print(5 <= 3)   # False
 # True   False
 # False  True
 """
+
+# Otros tipos de valores bool serian los numeros distintos a 0 == True y 0 == False. Y en el caso de los strings seria cualquier string no vacio == True y el string vacio "" == False.
+
+# Ejemplo int
+numero = 5
+if numero: # True
+   print("El número no es cero")
+ 
+numero = 0
+if numero: # False
+   print("Aquí no entrará nunca")
+
+# Ejemplo string
+
+nombre = "Juan"
+if nombre:
+   print("El nombre no es vacío")
+ 
+nombre = ""
+if nombre:
+    print("El nombre no es vacío") # Aquí no entrará nunca
+
+# La estructura del if es sencillamente usar la condicion y la sentencia. La condicion se está evaluando como True, donde si el valor condicionado es True, se ejecuta la sentencia. Si es False, no se ejecuta nada, o en consecuencia se ejecutaria un else o un elif.
