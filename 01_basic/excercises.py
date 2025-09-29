@@ -10,7 +10,7 @@ print("\nEjercicio 1: Imprimir mensajes")
 print("Escribe un programa que imprima tu nombre y tu ciudad en líneas separadas.")
 
 ### Completa aquí
-nombre, ciudad = input("Cuál es tu nombre y de donde eres? \n".split())
+nombre, ciudad = input("Cuál es tu nombre y de donde eres? \n").split()
 print(f"Hola, {nombre} de {ciudad}!")
 
 print("--------------")
@@ -33,10 +33,10 @@ print("Convierte la cadena \"12345\" a un entero y luego a un float.")
 print("Convierte el float 3.99 a un entero. ¿Qué ocurre?")
 
 cadena = int("123456")
-float(cadena)
+cadena = float(cadena)
 print(cadena, type(cadena))
 flotante = 3.99
-int(flotante)
+flotante = int(flotante)
 print(flotante, type(flotante))
 ### Completa aquí
 
