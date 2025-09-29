@@ -69,3 +69,7 @@ if nombre:
     print("El nombre no es vacío") # Aquí no entrará nunca
 
 # La estructura del if es sencillamente usar la condicion y la sentencia. La condicion se está evaluando como True, donde si el valor condicionado es True, se ejecuta la sentencia. Si es False, no se ejecuta nada, o en consecuencia se ejecutaria un else o un elif.
+
+# Si se evaluan comparativas entre strings, lo hace en orden alfabetico letra a letra para ver cual es mayor o menor.
+print("apple" > "banana")  # False
+print("apple" < "banana")  # True
