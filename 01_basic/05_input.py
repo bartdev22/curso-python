@@ -12,8 +12,8 @@ login_attempts: int = 3
 nombre = input ("Ingrese su nombre: ")  
 print(f"Hola, {nombre}!")
 
-país, ciudad = input("De qué país y ciudad eres?" .split())
+país, ciudad = input("De qué país y ciudad eres? ").split()
 print(f"Eres de {ciudad}, {país}")
 
-edad = int(input("Cuantos años tienes?"))
+edad = int(input("Cuantos años tienes? "))
 print(f"Tienes {edad} años! El próximo año tendrás {edad + 1} años")
