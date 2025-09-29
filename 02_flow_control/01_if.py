@@ -41,3 +41,13 @@ elif tiene_dinero:
     print("Puedes ir a la discoteca")
 else:
     print("Quédate en casa")
+
+# Condiciones ternarias con if-else
+# Formato:
+# [valor_si_verdadero] if [condición] else [valor_si_falso]
+
+print("La condición ternaria:")
+edad = 17
+mensaje = "Es mayor de edad"
+
+print(mensaje) if edad >= 18 else print("Es menor de edad")
